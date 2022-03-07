@@ -48,7 +48,7 @@ This is a demo repo that leverages AWS to deliver a three-tier example.
 - [Terraform](https://www.terraform.io/) - IAC Tool
 - [Bash](https://www.gnu.org/software/bash/) -  Bash is the shell, or command language interpreter, for the GNU operating system.
 - [Apache](https://httpd.apache.org/) - Apache is an open-source and free web server software.
-[Amazon Web Services](https://aws.amazon.com/) - Cloud Computing Services 
+- [Amazon Web Services](https://aws.amazon.com/) - Cloud Computing Services 
 
 ## Installation
 
