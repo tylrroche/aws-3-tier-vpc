@@ -16,7 +16,7 @@ This is a demo repo that leverages AWS to deliver a three-tier example.
 
 - Each resource in Terraform is broken down into a .tf configuration file. This makes the code cleaner, easier to troubleshoot, and easier to read and understand.
 - A variable.tf file holds all the variable configuration.
-- A my.tfvars holds all the values to your terraform variables.
+- A my.tfvars holds all the values to terraform variables.
 - The terraform code automatically uses variables for your awscli configuration.
 - This code uses a remote terraform state file.
 
