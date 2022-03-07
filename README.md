@@ -73,7 +73,7 @@ terraform apply -var-file my.tfvars
 
 ## Considerations
 
-If client wanted to become more cloud naive and more portable I would recommend Docker. I would build my application in docker, store my images in Amazon Elastic Container System. If our client wanted to become serverless, I would use Amazon Fargate because you don't your infrastructure.
+If client wanted to become more cloud naive and more portable I would recommend Docker. I would build my application in docker, store my images in Amazon Elastic Container System. If our client wanted to become serverless, I would use Amazon Fargate because you don't have to manage your infrastructure.
 
 Instructions on how to use them in your own application are linked below.
 
