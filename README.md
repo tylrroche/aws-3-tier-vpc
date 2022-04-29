@@ -84,4 +84,4 @@ Instructions on how to use them in your own application are linked below.
 | Amazon Fargate | [here](https://aws.amazon.com/fargate/) |
 
 ## Additional Notes
-For Nancy to see how things work, thank you again for the opportunity!!!
+Thank you again Kyle for the opportunity!!!
